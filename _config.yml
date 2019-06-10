@@ -2,8 +2,8 @@ title:              BSS IT Technologies
 email:              info@bss-it.kz
 description:        Сопровождение и внедрение инфокоммуникационных технологий
 author:             ТОО "Компания BSS IT Technologies"
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://daurenbss.github.io"
+baseurl:            
+url:                "https://bss-it.kz"
 
 # Social Profiles
 twitter_username:   
